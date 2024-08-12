@@ -9,3 +9,4 @@
 5. Build the project
 
 Note that this project doesn't contain touch pad driver. You can use an other Arudino library for your touchpad controller. 
+![Capture](https://github.com/user-attachments/assets/398c6260-3bf5-4ac9-b698-22c6871d7af5)
